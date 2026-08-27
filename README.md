@@ -98,34 +98,62 @@ Recommendations
 
 Checkout-to-purchase conversion exceeds 80%, indicating a highly efficient payment process.
 
-Recommendation
+**Recommendation**
 
 Avoid redesigning the checkout flow unless a critical issue arises. Instead, focus optimization efforts on earlier stages of the customer journey where the largest drop-offs occur.
 
-Marketing Strategy
-Optimize Marketing Spend
+### Marketing Strategy ###
+**Optimize Marketing Spend**
 
 Although Social Media generated approximately 30% of website traffic, it delivered the lowest conversion rate.
 
-Recommendation
+**Recommendation**
 
 Reduce budget allocated to traffic-focused social campaigns and redirect investment toward retargeting and lead generation strategies.
 
-Expand Email Marketing
+### Expand Email Marketing ###
 
 Email Marketing achieved the highest conversion rate (34%).
 
-Recommendation
+**Recommendation**
 
 Increase email acquisition through website pop-ups, lead magnets, and abandoned cart campaigns to capitalize on this high-performing channel.
 
-Financial Strategy
-Improve Customer Acquisition Efficiency
+### Financial Strategy ###
+**Improve Customer Acquisition Efficiency**
 
 Average Order Value is $106.
 
-Recommendation
+**Recommendation**
 
 Maintain Customer Acquisition Cost (CAC) below $30–$40 to preserve healthy profit margins. Monitor campaign ROI regularly and pause underperforming campaigns.
+
+---
+
+## **Skills Demonstrated** ##
+
+SQL
+
+Business Analytics
+
+Marketing Analytics
+
+Customer Behavior Analysis
+
+Revenue Analysis
+
+Conversion Funnel Analysis
+
+Window Functions
+
+Aggregate Functions
+
+Common Table Expressions
+
+Problem Solving
+
+---
+
+## **Contact** ##
 
 
