@@ -79,5 +79,53 @@ Recommendations
 
 ## **Business Questions** ##
 
+---
+
+## **Key Insights** ##
+
+- Social Media generated high traffic but low conversion.
+- Email Marketing achieved the highest conversion rate.
+- Checkout performance exceeded 80%, indicating an efficient payment process.
+- Average Order Value reached $106.
+- Customer acquisition costs should remain below the average profit generated per customer.
+
+---
+
+## **Business Recommendations** ##
+
+### User Experience ##
+**Preserve the Checkout Experience**
+
+Checkout-to-purchase conversion exceeds 80%, indicating a highly efficient payment process.
+
+Recommendation
+
+Avoid redesigning the checkout flow unless a critical issue arises. Instead, focus optimization efforts on earlier stages of the customer journey where the largest drop-offs occur.
+
+Marketing Strategy
+Optimize Marketing Spend
+
+Although Social Media generated approximately 30% of website traffic, it delivered the lowest conversion rate.
+
+Recommendation
+
+Reduce budget allocated to traffic-focused social campaigns and redirect investment toward retargeting and lead generation strategies.
+
+Expand Email Marketing
+
+Email Marketing achieved the highest conversion rate (34%).
+
+Recommendation
+
+Increase email acquisition through website pop-ups, lead magnets, and abandoned cart campaigns to capitalize on this high-performing channel.
+
+Financial Strategy
+Improve Customer Acquisition Efficiency
+
+Average Order Value is $106.
+
+Recommendation
+
+Maintain Customer Acquisition Cost (CAC) below $30–$40 to preserve healthy profit margins. Monitor campaign ROI regularly and pause underperforming campaigns.
 
 
