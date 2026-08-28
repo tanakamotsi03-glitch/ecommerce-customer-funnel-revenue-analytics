@@ -241,11 +241,11 @@ Small improvements in Average Order Value could significantly increase overall r
 
 ### **8.	How frequently do customers purchase?** ###
 
-[SQL Query: Purchase Frequency](SQL/08_average_frequency_per_user.sql)
+[SQL Query: Purchase Frequency](SQL/08_Purchase_frequency.sql)
 
 **Result**
 
-![Purchase Frequency](Images/09_average_order_value.png)
+![Purchase Frequency](Images/08_average_frequency_per_user.png)
 
 **Finding**
 
