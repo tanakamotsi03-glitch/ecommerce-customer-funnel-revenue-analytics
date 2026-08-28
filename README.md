@@ -79,6 +79,26 @@ Recommendations
 
 ## **Business Questions** ##
 
+### **1.	How do customers progress through the purchasing funnel?** ###
+
+![Funnel Stages](SQL/01_Funnel_Stages.sql)
+
+**Result**
+
+![Funnel Stages](Images/02_Sales_funnel_and_stages.png)
+
+**Finding**
+
+The purchasing funnel begins with 5,000 page views, but only 826 customers complete a purchase, resulting in an overall conversion rate of approximately 17%.
+
+**Business Insight**
+
+The largest customer drop-off occurs between the Page View and Add to Cart stages, where nearly 69% of visitors leave without showing purchase intent. This suggests that the primary opportunity for improving conversions lies in increasing product engagement rather than optimizing the checkout process.
+
+**Business Impact**
+
+Improving product page content, pricing visibility, product recommendations, and call-to-action buttons could significantly increase the number of customers progressing through the purchasing funnel.
+
 ---
 
 ## **Key Insights** ##
