@@ -81,7 +81,7 @@ Recommendations
 
 ### **1.	How do customers progress through the purchasing funnel?** ###
 
-![Funnel Stages](SQL/01_Funnel_Stages.sql)
+SQL/01_Funnel_Stages.sql
 
 **Result**
 
