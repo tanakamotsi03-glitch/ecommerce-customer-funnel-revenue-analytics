@@ -105,7 +105,7 @@ Improving product page content, pricing visibility, product recommendations, and
 
 **Result**
 
-![Conversion Rate](Images/03_Conversion_rate_through_the_funnel.png)
+![Conversion Rate](Images/03_conversion_rate_through_the_funnel.png)
 
 **Finding**
 
