@@ -37,7 +37,7 @@ The objective of this project is to identify where customers abandon the funnel,
 
 ## **Dataset** ##
 
-User Events
+[User Events ](Dataset/user_events.csv)
 
 ---
 
